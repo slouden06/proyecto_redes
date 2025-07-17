@@ -83,4 +83,4 @@ verdebogota/
 
 ## 🧠 Créditos
 
-Proyecto desarrollado por **[Tu nombre]** para la Universidad Nacional de Colombia, como entrega del curso de Ingeniería de Software.
+Proyecto desarrollado por Edwin Andrés Marín Vanegas para la Universidad Nacional de Colombia, como entrega del curso de Redes de computadores.

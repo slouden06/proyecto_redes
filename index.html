@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>VerdeBogotá</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+</head>
+<body>
+  <button id="menuToggle">☰ Menú</button>
+
+  <div id="sidebar">
+    <h2>Menú</h2>
+    <ul>
+      <li onclick="mostrarSeccion('mapa')">Ver Mapa</li>
+      <li onclick="mostrarSeccion('zonas')">Zonas Verdes</li>
+      <li onclick="mostrarSeccion('consejos')">Consejos</li>
+      <li onclick="mostrarSeccion('historial')">Historial</li>
+      <li onclick="mostrarSeccion('salud')">Salud y Bienestar</li>
+      <li onclick="mostrarSeccion('turismo')">Impacto Turístico</li>
+
+      <li onclick="mostrarSeccion('asistente')">Asistente Ecológico 🌿</li>
+    </ul>
+  </div>
+
+  <div id="map" style="height: 100vh;"></div>
+
+  <div id="contenido"></div>
+  <script src="script.js"></script>
+
+</body>
+
+</html>

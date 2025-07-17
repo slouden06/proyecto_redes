@@ -1,0 +1,172 @@
+{
+  "zonas": [
+    {
+      "nombre": "Parque Simón Bolívar",
+  "tipo": "Parque",
+  "coordenadas": [4.658770, -74.096422],
+  "estado": "Bueno",
+  "longitud": "113 hectáreas",
+  "horarios": "6:00 a.m. - 6:00 p.m.",
+  "actividades": ["Ciclismo", "Picnic", "Caminata", "Eventos"],
+  "lugares_cercanos": ["Gran Estación", "Biblioteca Virgilio Barco"],
+  "imagen": "img/simon.jpeg",
+  "informacion": "El Parque Metropolitano Simón Bolívar en Bogotá es un extenso parque urbano, conocido por sus amplias zonas verdes, lago, y escenarios para actividades recreativas y eventos. Es un lugar popular para picnics, deportes, y eventos culturales y musicales. Información general:\nUbicación:\nSe encuentra en el centro geográfico de Bogotá, en la localidad de Teusaquillo.\nTamaño:\nCuenta con aproximadamente 113 hectáreas de terreno, incluyendo zonas verdes, senderos, un lago y áreas para eventos.\nInfraestructura:\nPosee un lago de 10 hectáreas con embarcadero, una plaza de eventos con 37,000 metros cuadrados, ciclovía permanente, pista de trote y zonas verdes."
+    },
+    {
+      "nombre": "Humedal Juan Amarillo",
+      "tipo": "Humedal",
+      "coordenadas": [4.737215, -74.119015],
+      "estado": "Bueno",
+      "longitud": "222 hectáreas",
+      "horarios": "7:00 a.m. - 5:00 p.m.",
+      "actividades": ["Observación de aves", "Caminata ecológica"],
+      "lugares_cercanos": ["Titan Plaza", "Cafetería BioCafé"],
+      "imagen": "img/humedal.jpeg",
+       "informacion":"El Humedal Juan Amarillo, también conocido como Tibabuyes, es el humedal más extenso de Bogotá, ubicado entre las localidades de Suba y Engativá. Es reconocido por su biodiversidad y su importancia como refugio de aves y otras especies. El nombre Juan Amarillo proviene del arroyo que lo atraviesa, mientras que Tibabuyes en lengua muisca significa tierra de labradores.Características principales:Ubicación: Entre las localidades de Suba y Engativá, conectando con el río Bogotá. : El humedal más grande de Bogotá, con aproximadamente 222.58 hectáreas. Importancia ecológica: Refugio de aves endémicas y migratorias, además de otras especies de flora y fauna. Nombre: Tibabuyes (Muisca), que significa tierra de labradores, y Juan Amarillo, por el arroyo que lo atraviesa. Estado: Declarado Parque Ecológico Distrital y reconocido como sitio RAMSAR por su valor ambiental. "
+    },
+    {
+      "nombre": "Jardín Botánico de Bogotá",
+      "tipo": "Jardín Botánico",
+      "coordenadas": [4.668330, -74.099625],
+      "estado": "Bueno",
+      "longitud": "19 hectáreas",
+      "horarios": "8:00 a.m. - 5:00 p.m.",
+      "actividades": ["Educación ambiental", "Visitas guiadas", "Botánica"],
+      "lugares_cercanos": ["Av. Rojas", "Museo de Ciencias Naturales"],
+      "imagen": "img/jardin.jpeg",
+      "informacion":""
+    },
+    {
+      "nombre": "Parque El Tunal",
+      "tipo": "Parque",
+      "coordenadas": [4.571977, -74.132902],
+      "estado": "Regular",
+      "longitud": "52 hectáreas",
+      "horarios": "5:00 a.m. - 7:00 p.m.",
+      "actividades": ["Fútbol", "Zumba", "Lectura", "Ciclismo"],
+      "lugares_cercanos": ["Centro Comercial El Tunal", "Biblioteca El Tunal"],
+      "imagen": "img/tunal.jpeg",
+      "informacion":""
+    },
+    {
+      "nombre": "Humedal Córdoba",
+      "tipo": "Humedal",
+      "coordenadas": [4.703904, -74.065955],
+      "estado": "Bueno",
+      "longitud": "40 hectáreas",
+      "horarios": "6:00 a.m. - 5:00 p.m.",
+      "actividades": ["Fotografía", "Avistamiento de aves"],
+      "lugares_cercanos": ["Centro Suba", "Estación Av. Suba - Calle 100"],
+      "imagen": "https://bogota.gov.co/sites/default/files/2022-01/humedal-cordoba.jpg",
+      "informacion":""
+    },
+    {
+      "nombre": "Parque Nacional Enrique Olaya Herrera",
+      "tipo": "Parque",
+      "coordenadas": [4.623908, -74.063670],
+      "estado": "Bueno",
+      "longitud": "283 hectáreas",
+      "horarios": "6:00 a.m. - 6:00 p.m.",
+      "actividades": ["Ejercicio", "Caminata", "Cultura"],
+      "lugares_cercanos": ["Museo Nacional", "Plaza de Toros"],
+      "imagen": "https://www.idrd.gov.co/sites/default/files/styles/1050x525/public/2020-06/parque-nacional.jpg",
+      "informacion":""
+    },
+    {
+      "nombre": "Humedal Santa María del Lago",
+      "tipo": "Humedal",
+      "coordenadas": [4.694271, -74.095278],
+      "estado": "Bueno",
+      "longitud": "10 hectáreas",
+      "horarios": "7:00 a.m. - 5:00 p.m.",
+      "actividades": ["Pesca artesanal", "Senderismo"],
+      "lugares_cercanos": ["Engativá", "Avenida Boyacá"],
+      "imagen": "https://bogota.gov.co/sites/default/files/2022-01/humedal-santa-maria-lago.jpg",
+      "informacion":""
+    },
+    {
+      "nombre": "Reserva Forestal Entrenubes",
+      "tipo": "Reserva",
+      "coordenadas": [4.534855, -74.096787],
+      "estado": "Bueno",
+      "longitud": "626 hectáreas",
+      "horarios": "6:00 a.m. - 4:00 p.m.",
+      "actividades": ["Trekking", "Educación ambiental"],
+      "lugares_cercanos": ["Ciudad Bolívar", "Barrio San Francisco"],
+      "imagen": "https://bogota.gov.co/sites/default/files/2022-01/reserva-entrenubes.jpg",
+      "informacion":""
+    },
+    {
+      "nombre": "Parque El Virrey",
+      "tipo": "Parque",
+      "coordenadas": [4.673980, -74.056556],
+      "estado": "Bueno",
+      "longitud": "15 hectáreas",
+      "horarios": "5:30 a.m. - 7:00 p.m.",
+      "actividades": ["Mascotas", "Bicicleta", "Caminata"],
+      "lugares_cercanos": ["Zona T", "Andino"],
+      "imagen": "https://bogota.gov.co/sites/default/files/2022-01/parque-el-virrey.jpg",
+      "informacion":""
+    },
+    {
+      "nombre": "Parque Metropolitano Bosque San Carlos.",
+      "tipo": "Zona Verde",
+      "coordenadas": [4.572682, -74.104176],
+      "estado": "Regular",
+      "longitud": "1 hectárea",
+      "horarios": "Abierto todo el día",
+      "actividades": ["Recreación pasiva", "Lectura"],
+      "lugares_cercanos": ["Restrepo", "Iglesia del Divino Niño"],
+      "imagen": "https://bogota.gov.co/sites/default/files/2022-01/zona-verde.jpg",
+      "informacion":""
+    },
+    {
+      "nombre": "Parque Timiza",
+      "tipo": "Parque",
+      "coordenadas": [4.609741, -74.153776],
+      "estado": "Regular",
+      "longitud": "29 hectáreas",
+      "horarios": "5:00 a.m. - 6:30 p.m.",
+      "actividades": ["Canotaje", "Fútbol", "Juegos"],
+      "lugares_cercanos": ["Timiza", "Hospital Meissen"],
+      "imagen": "https://www.idrd.gov.co/sites/default/files/styles/1050x525/public/2020-06/parque-timiza.jpg",
+      "informacion":""
+    },
+    {
+      "nombre": "Parque Centenario - El Carmen de la Laguna",
+      "tipo": "Zona Verde",
+      "coordenadas": [4.672906, -74.150881],
+      "estado": "Crítico",
+      "longitud": "0.5 hectáreas",
+      "horarios": "Abierto todo el día",
+      "actividades": ["Juegos infantiles"],
+      "lugares_cercanos": ["Fontibón Centro", "Parroquia San José"],
+      "imagen": "https://bogota.gov.co/sites/default/files/2022-01/zona-verde-barrial.jpg",
+      "informacion":""
+    },
+    {
+      "nombre": "Reserva Natural Parque Entre Nubes",
+      "tipo": "Parque",
+      "coordenadas": [4.539068, -74.097286],
+      "estado": "Bueno",
+      "longitud": "626 hectáreas",
+      "horarios": "6:00 a.m. - 4:00 p.m.",
+      "actividades": ["Senderismo", "Fotografía", "Educación ambiental"],
+      "lugares_cercanos": ["Ciudad Bolívar", "Barrio Juan Rey"],
+      "imagen": "https://bogota.gov.co/sites/default/files/2022-01/reserva-entre-nubes.jpg",
+      "informacion":""
+    },
+    {
+      "nombre": "Humedal Tibanica",
+      "tipo": "Humedal",
+      "coordenadas": [4.602805, -74.205728],
+      "estado": "Regular",
+      "longitud": "28 hectáreas",
+      "horarios": "7:00 a.m. - 5:00 p.m.",
+      "actividades": ["Educación ambiental", "Observación de aves"],
+      "lugares_cercanos": ["Soacha Norte", "Vereda Chucua"],
+      "imagen": "https://bogota.gov.co/sites/default/files/2022-01/humedal-tibanica.jpg",
+      "informacion":""
+    }
+  ]
+}
